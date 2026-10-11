@@ -1,0 +1,19 @@
+@use '../abstracts/variables' as vars;
+
+body {
+  color: vars.$text-color;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 32px;
+}
+
+h1 {
+  font-size: vars.$font-large;
+  color: vars.$text-color;
+}
+
+h2 {
+  font-size: vars.$font-medium;
+  color: vars.$text-color;
+}

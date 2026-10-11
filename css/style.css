@@ -1,0 +1,36 @@
+body {
+  color: #222;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 32px;
+}
+
+h1 {
+  font-size: 32px;
+  color: #222;
+}
+
+h2 {
+  font-size: 28px;
+  color: #222;
+}
+
+.button {
+  background: red;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+}
+
+.card {
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  max-width: 480px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,12 @@
+{
+  "name": "sass-mixins-variables",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "sass scss/main.scss css/style.css",
+    "watch": "sass --watch scss/main.scss:css/style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.89.0"
+  }
+}
